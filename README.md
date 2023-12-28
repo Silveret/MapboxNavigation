@@ -6,7 +6,7 @@
 
 功能：
 
-可偵測使用者位置並連線至Mircrosft sql server 、導航
+可偵測使用者位置並連線至Mircrosft sql server 、導航（搜尋引擎可支持英文及中文）
 
 使用技術：
 Java 、mapbox套件、SQL資料庫
