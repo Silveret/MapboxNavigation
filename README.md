@@ -15,5 +15,8 @@ Java 、mapbox套件、SQL資料庫
 
 劣勢：沒有預防注射問題及榜定android系統
 
+apk下載(不包含使用者定位)
+
+https://drive.google.com/file/d/1iBi3mAMVocoSWd_CWjBQ_kGxLZCxdFzO/view?usp=share_link
      
  reference  https://docs.mapbox.com/help/tutorials/android-navigation-sdk/
