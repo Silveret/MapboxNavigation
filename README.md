@@ -4,7 +4,9 @@
 
 下載後打包成apk即可使用
 
-可偵測使用者位置
+功能：
+
+可偵測使用者位置並連線至Mircrosft sql server 、導航
 
 使用技術：
 Java 、mapbox套件、SQL資料庫
